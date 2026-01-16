@@ -1,6 +1,9 @@
 #include <iostream>
 
+using namespace std;
+
 int main() {
-    std::cout << "Node mine is running..." << std::endl;
-    return 0;
+	
+	cout << q;
+
 }
