@@ -135,5 +135,25 @@ int main() {
     cout << "Average: " << average << "\n";
     cout << "Result: " << (success ? "Successful" : "Failed") << "\n";
 
+    
+
+
+
+
+
+	int number1 , calc1;
+	
+	cout << "number: ";
+	cin >> number1;
+
+	calc1 =  number1 % 2  ;
+	
+	if (calc1 == 0)
+		cout << number1 << " positev number\n";
+	else
+		cout << number1 << " negatev number\n";
+
+	
+
     return 0;
 }
